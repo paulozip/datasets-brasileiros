@@ -1,3 +1,7 @@
+
+# AVISO
+Devido o tamanho de cada *dataset* (mais de 300 MN compactados, 1,7 GB descomprimidos), não é possível hospedá-los aqui no GitHub. Para ter acesso aos *datasets*, clone ou *fork* este repositório e execute o script.
+
 # BOLSA FAMÍLIA
 Dataset contendo dados de beneficiários favorecidos durante todo o período
 abrangido por este *dataset* (atualmente de 2011 a 2016).
